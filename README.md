@@ -36,7 +36,7 @@ terraform apply
 terraform apply --var-file="example_var.tfvar"
 
 ```
-Here is an example [outputs](https://github.com/emineozsahin/terraform_002/blob/main/terraform-example.pdf)
+Here are some example [outputs](https://github.com/emineozsahin/terraform_002/blob/main/terraform-example.pdf)
 
 
 
