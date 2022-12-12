@@ -20,16 +20,16 @@ Below are the list of the links that I used to find the resources.
 5. [Terraform Azure VM](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_machine)
 
 ```
-# fix the indentation
+# fix the indentation if there are any
 terraform fmt
 
-#
+# Initiate the working directory
 terraform init
 
 # Check the IaC deployments
 terraform plan
 
-# Apply the the IaC deployments
+# Apply the IaC deployments
 terraform apply
 
 # if you want to use a different file for variables
@@ -37,7 +37,7 @@ terraform apply --var-file="example_var.tfvar"
 
 ```
 
-terraform init -migrate-state
+
 
 
 
