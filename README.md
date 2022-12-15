@@ -20,7 +20,7 @@ Below are the list of the links that I used to find the resources.
 5. [Terraform Azure VM](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_machine)
 
 ```
-# fix the indentation if there are any
+# fix the indentation if there are any mistakes
 terraform fmt
 
 # Initiate the working directory
