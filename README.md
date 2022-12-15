@@ -1,7 +1,7 @@
 
 # Generating Azure Resource Group, Storage Account and Virtual Machine via Terraform
 
-```
+```sh
 #make a folder for the root module
 mkdir terraform_002; cd terraform_002
 
@@ -19,7 +19,7 @@ Below are the list of the links that I used to find the resources.
 4. [Terraform Azure Virtual Network](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_network)
 5. [Terraform Azure VM](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_machine)
 
-```
+```sh
 # fix the indentation if there are any mistakes
 terraform fmt
 
